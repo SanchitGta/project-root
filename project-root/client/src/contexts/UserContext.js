@@ -1,0 +1,1 @@
+Context for managing user state and authentication
