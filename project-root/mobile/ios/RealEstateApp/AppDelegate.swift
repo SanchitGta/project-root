@@ -1,0 +1,1 @@
+Main entry point and app lifecycle management for iOS app
