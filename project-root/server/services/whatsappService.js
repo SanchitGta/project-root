@@ -1,0 +1,1 @@
+Service for extracting and summarizing WhatsApp conversations
