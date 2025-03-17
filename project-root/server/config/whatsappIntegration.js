@@ -1,0 +1,1 @@
+Configuration for WhatsApp integration using APIs
