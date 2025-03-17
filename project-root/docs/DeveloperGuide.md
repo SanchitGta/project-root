@@ -1,0 +1,1 @@
+Guide for developers contributing to the project
